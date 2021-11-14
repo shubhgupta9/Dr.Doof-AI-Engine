@@ -1,0 +1,40 @@
+body {
+  background-image: url("./low-poly-grid-haikei.svg");
+}
+
+.scrolll {
+  overflow: scroll;
+  scrollbar-color: black black;
+}
+
+.OutputBoxPositions {
+  position: absolute;
+  right: 25px;
+  top: 200px;
+}
+
+.SQLBoxPositions {
+  position: absolute;
+  top: 200px;
+  left: 10px;
+}
+
+#Headerstyle {
+  background-color: #404040;
+}
+
+#footer {
+  background-color: #404040;
+}
+
+.spacer {
+  aspect-ratio: 960/300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.textColor {
+  color: white;
+}
